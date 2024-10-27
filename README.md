@@ -23,7 +23,7 @@ This Java project calculates all unique knight-move paths within an input grid, 
 
 ## Running the Program
 
-To execute the program, run the following Maven command, which will run the main class `KnightUniquePaths`:
+To execute the program, run the following Maven command, which will run the main class `MainRunner`:
 
 ```bash
 mvn exec:java -Dexec.mainClass="MainRunner"
