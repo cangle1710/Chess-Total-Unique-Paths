@@ -28,7 +28,7 @@ To execute the program, run the following Maven command, which will run the main
 ```bash
 mvn exec:java -Dexec.mainClass="MainRunner"
 ```
-Or run the artifact jar file in `artifacts` folder with following command:
+Or run the artifact jar file in with following command:
 ```bash
  java -jar ParabolicSurfCangLe.jar
 ```
