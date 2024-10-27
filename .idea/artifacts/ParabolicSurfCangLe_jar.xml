@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParabolicSurfCangLe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParabolicSurfCangLe_jar</output-path>
+    <root id="archive" name="ParabolicSurfCangLe.jar">
+      <element id="module-output" name="ParabolicSurfCangLe" />
+    </root>
+  </artifact>
+</component>
